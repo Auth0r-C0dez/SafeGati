@@ -1,0 +1,14 @@
+{
+  "name": "safegati-packers-movers",
+  "version": "1.0.0",
+  "description": "Safegati Packers and Movers - MERN stack website",
+  "private": true,
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "cd client && npm run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
