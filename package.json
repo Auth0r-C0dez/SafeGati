@@ -7,10 +7,8 @@
     "dev": "cd client && npm run dev",
     "build": "cd client && npm run build",
     "start": "cd client && npm run dev"
-  }
-
   },
   "devDependencies": {
     "concurrently": "^9.1.2"
   }
-
+}
